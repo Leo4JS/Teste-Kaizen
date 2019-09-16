@@ -4,7 +4,7 @@
 Para iniciar o sistema, você deve acessar App\application\config\config.php e procurar pela linha $config['base_url'] = 'http://localhost/App/'; .Substitua o caminho caso utilize servidor web ou adicione pastas "pais".
  Desse modo você estará configurando a raiz do projeto onde terá acesso ao controller Home.php que irá chamar a view home.php(Página inicial)!
 
-#Configurando envio de e-mail através de um servidor local
+#Configurando envio de e-mail através de um servidor local	
 Neste caso usei o xampp.
 
 #Assim, você irá procurar pelo arquivo xampp\php\php.ini e nele pesquisará [mail function].
