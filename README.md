@@ -1,5 +1,5 @@
 #Olá!
-*Ao baixar o arquivo mude o nome "App-master" para "App"
+*Ao baixar o arquivo mude o nome da pasta "App-master" para "App"
 #Iniciando o sistema
 Para iniciar o sistema, você deve acessar App\application\config\config.php e procurar pela linha $config['base_url'] = 'http://localhost/App/'; .Substitua o caminho caso utilize servidor web ou adicione pastas "pais".
  Desse modo você estará configurando a raiz do projeto onde terá acesso ao controller Home.php que irá chamar a view home.php(Página inicial)!
