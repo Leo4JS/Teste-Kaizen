@@ -1,0 +1,149 @@
+@media (min-width: 992px) {
+	#footer{
+		background-color:#ff7100;
+	}
+	.toggler{
+		background-color:#f47870;
+	}
+	.spacefooter{
+		margin-bottom: 90px;
+	}
+}
+@media (max-width: 991px) {
+	.card{
+		margin-bottom: 30px;
+	}
+	.containercardhome .card-body p{
+		height: 96px;
+	}
+}
+#nav{
+	background-color:#ff7101;
+	height: auto;
+}
+.nav{
+	background-color:#ff7101;
+}
+#nav-a{
+	color: white;
+}
+.containercardhome .card-body .fas{
+	font-size: 70px;
+	color: #ff7100;
+	margin-bottom: 10px;
+	margin-top: 10px;
+
+}
+.containercardhome{
+	background-color: #e6e6e6;
+	margin-bottom: 50px;
+	margin-top: 30px;
+}
+.card-estilo{
+	padding-top:40px;
+	padding-bottom:50px;
+}
+.cardauto{
+	margin:0px;
+}
+.containercardhome .card-body{
+	height: 285px;
+
+}
+.containercardhome .card-body .fas{
+	font-size: 70px;
+	color: #ff7100;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	
+}
+.containercardhome .card-body .btn{
+	border-radius:0px;
+}
+.btn-primary{
+	background-color:#20c2c4; 
+	border: 0px;
+}
+.card{
+	-webkit-box-shadow: 1px 1px 3px 1px rgba(0,0,0,0.15);
+	-moz-box-shadow: 1px 1px 3px 1px rgba(0,0,0,0.15);
+	box-shadow: 1px 1px 3px 1px rgba(0,0,0,0.15);
+	border:0px;
+}
+.navbar-item .fab{
+	color:#ffffff;
+	font-size:20px;
+}
+.rota{
+	background-color: #e6e6e6;
+}
+.rota a{
+	color: #ff7100;
+	font-size: 16px;
+}
+.rodape{
+	background-color:#e6e6e6;
+	height: 50px; 
+}
+.rodape p{
+	background-color:#e6e6e6; 
+	margin:0px;
+	padding-top: 12px;
+	padding-left: 5px
+}
+#footer .navbar-item .fab{
+	margin:0px 8px;
+}
+
+
+
+
+
+
+/*Owl.carousel*/
+#owl-umclick .item{
+	background-color:#e6e6e6;	
+}
+
+#container_carousel{
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.divprev{
+	width: 35px;
+	position: relative;
+	z-index: 1000;
+	left: 20px;
+}
+.divnext{
+	width: 35px;
+	position: relative;
+	z-index: 1000;
+	right: 20px;
+}
+
+/*Controlls owl.carousel*/
+.prev{
+	background-color: #f56e00;
+	color: #fff;
+	font-size: 30px;
+	padding:0px 10px;
+}
+.next{
+	background-color: #f56e00;
+	color: #fff;
+	font-size: 30px;
+	padding:0px 10px;
+}
+
+
+.next:hover{
+	color:#20c2c4;
+}
+.prev:hover{
+	color:#20c2c4;
+}
+
