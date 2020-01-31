@@ -35,9 +35,8 @@
 - smtp_server=smtp.gmail.com
 - smtp_port=587
 - smtp_ssl=auto
-- (Utilize este e-mail para checar se o formulário de Contato está enviando os e-mails corretamente)
-- auth_username=avitassibanac@gmail.com
-- auth_password=Uu2695458
+- auth_username=seu@email
+- auth_password=suaSenha@do.email
 
 - force_sender=avitassibanac@gmail.com
 
