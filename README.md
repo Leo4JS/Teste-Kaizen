@@ -8,7 +8,7 @@
 - Desse modo você estará configurando a raiz do projeto onde terá acesso ao controller Home.php que irá chamar a view home.php(Página inicial)!
 
 
-# Configurando envio de e-mail através de um servidor local	
+# Servidor local
 * Neste caso usei o xampp.
 
 
@@ -40,4 +40,5 @@
 
 - force_sender=avitassibanac@gmail.com
 
+Result: Job conquered
 
